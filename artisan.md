@@ -67,7 +67,7 @@ php artisan down
 ```
 
 Then people would see default 503 status page.
-
+- [Exact Laravel version](#exact-laravel-version)
 You may also provide flags, in Laravel 8:
 
 - the path the user should be redirected to
